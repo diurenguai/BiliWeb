@@ -21,7 +21,7 @@ npm run build
 npm run lint
 ```
 ### 服务器端这这边
-[server]
+[server](https://github.com/diurenguai/BiliServer)
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 =======
