@@ -22,6 +22,9 @@ npm run lint
 ```
 ### 服务器端这这边
 [server](https://github.com/diurenguai/BiliServer)
+
+### 参考项目以及致谢
+[参考项目](https://gitee.com/seasontuza/bilibili-web)
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 =======
