@@ -20,7 +20,7 @@ npm run build
 ```
 npm run lint
 ```
-### 服务器端这这边
+### 服务器端在这边
 [server](https://github.com/diurenguai/BiliServer)
 
 ### 参考项目以及致谢
